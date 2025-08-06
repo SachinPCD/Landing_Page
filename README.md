@@ -56,8 +56,8 @@ landing-page/
 ## 🙋‍♂️ Author
 
 **Gandu Sachin**  
-📧 Email: [YourEmail@example.com]  
-🌐 Portfolio: [Your Portfolio Link (optional)]  
+📧 Email: [gandusachin937@gmail.com]  
+🌐 Portfolio: [https://sachinpcd.vercel.app]  
 
 ---
 
