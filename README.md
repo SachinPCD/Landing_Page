@@ -1,4 +1,4 @@
-# 🌐 Landing Page - Web Development Internship @ Oasis Infobyte
+# 🌐 Landing Page - Web Development Internship
 
 ## 📌 Task: Level 1 - Task 1
 
